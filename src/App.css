@@ -1,0 +1,23 @@
+#root{
+  background-color: #1B1E1F;
+}
+
+.search-bar{
+  margin: 3rem;
+}
+
+.main {
+  background-color: #1B1E1F;
+  display: flex;
+  flex-flow: row wrap;
+  justify-content: center;
+  gap: 2rem;
+  margin-top: 2rem;
+  margin-bottom: 2rem;
+}
+.pagination {
+  display: flex;
+  justify-content: center;
+  gap: 2rem;
+  margin-top: 4rem;
+}
