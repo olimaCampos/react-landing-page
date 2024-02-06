@@ -31,8 +31,6 @@ export const MiApi = () => {
           }
           return 0;
         });
-        
-        console.log(characterId);
         setCharacters(characterId);
         setFilteredCharacters(characterId);
       })
